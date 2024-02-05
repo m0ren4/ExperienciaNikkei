@@ -1,0 +1,102 @@
+ body {
+   font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif;
+ }
+LI {
+  list-style: none;
+  margin-right: 25PX;
+}
+
+  .MENU {
+display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.LISTA {
+  display:flex;
+
+}
+a {
+text-decoration: none;
+color: brown;
+font-size: 35px;
+
+
+}
+.quienessomos {
+  text-align: center;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+
+}
+.quienessomos img{
+  max-width: 100%;
+}
+
+ .h3 {
+   font-size: 30px;
+ }
+
+header{
+  background-image: url(imagenes01/fondopagina0.jpg);
+height: 150vh;
+background-position: left;
+background-size: auto;
+}
+
+i
+{
+  text-decoration: none;
+  color: brown;
+  font-size: 35px;
+
+}
+
+
+
+.NUESTRA-GASTRONOMIA {
+  text-decoration: none;
+  color: brown;
+  font-size: 35px;
+    margin-top: 20px;
+}
+
+
+
+header{
+  background-image: url(imagenes01/fondopagina0.jpg);
+height: rgb(255, 0, 0);vh;
+background-size:  cover;
+}
+.UBICACIÓN {
+  text-decoration: none;
+  color: brown;
+  font-size: 35px;
+  margin-top: 20px; }
+
+  .UBICACIÓN img{
+    max-width: 100%;
+  }
+
+  p {
+font-size: 20px;
+
+  }
+
+
+  .btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: brown;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: #2980b9;
+}
